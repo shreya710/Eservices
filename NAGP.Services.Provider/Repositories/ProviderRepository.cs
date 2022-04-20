@@ -12,10 +12,10 @@ namespace NAGP.Services.ProviderAPI.Repositories
         {
             providers = new List<Provider>
             {
-                new Provider{Id = 1, Name ="sumit", Username="sumit@123", Password="sumit@123", ContactNumber="9871778941", ServiceArea="Haryana", ServiceId=1},
-                new Provider{Id = 2, Name ="amit", Username="amit@123", Password="amit@123", ContactNumber="9871778931", ServiceArea="Delhi",ServiceId=2},
-                new Provider{Id = 3, Name ="ronit", Username="ronit@123", Password="ronit@123", ContactNumber="9871778942", ServiceArea="Haryana",ServiceId=3},
-                new Provider{Id = 4, Name ="tina", Username="tina@123", Password="tina@123", ContactNumber="9871778932", ServiceArea="UP",ServiceId=4},
+                new Provider{Id = 1, Name ="roahn", Username="roahn@123", Password="roahn@123", ContactNumber="9871778941", ServiceArea="Haryana", ServiceId=1},
+                new Provider{Id = 2, Name ="sujeet", Username="sujeet@123", Password="sujeet@123", ContactNumber="9871778931", ServiceArea="Delhi",ServiceId=2},
+                new Provider{Id = 3, Name ="gaurav", Username="gaurav@123", Password="gaurav@123", ContactNumber="9871778942", ServiceArea="Haryana",ServiceId=3},
+                new Provider{Id = 4, Name ="himanshu", Username="tina@123", Password="tina@123", ContactNumber="9871778932", ServiceArea="UP",ServiceId=4},
             };
         }
 

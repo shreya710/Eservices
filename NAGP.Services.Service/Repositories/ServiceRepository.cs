@@ -12,11 +12,11 @@ namespace NAGP.Services.ServiceAPI.Repositories
         {
             services = new List<Service>
             {
-                new Service { Id = 1, Name = "electrician", Description = "Provide all the electrical related services.", Charges="1000" },
-                new Service { Id = 2, Name = "yoga trainer", Description = "Provide yoga trainnings", Charges="1500" },
-                new Service { Id = 3, Name = "barber", Description = "Provide Hair cutting services.", Charges="600"  },
-                new Service { Id = 4, Name = "car washer", Description = "Provide car washing services at your home.", Charges="500"  },
-                new Service { Id = 5, Name = "house cleaner", Description = "Clean up your house and make it shine.", Charges="700"  }
+                new Service { Id = 1, Name = "plumber", Description = "Provide all the plumber related services.", Charges="1000" },
+                new Service { Id = 2, Name = "beautician", Description = "Provide beauty related services", Charges="1500" },
+                new Service { Id = 3, Name = "housekeeping", Description = "Provide housekeeping services.", Charges="600"  },
+                new Service { Id = 4, Name = "Ac & Appliance repair", Description = "Provide Ac & Appliance repair services", Charges="500"  },
+                new Service { Id = 5, Name = "Cleaning & Pest Control", Description = "Provides Cleaning & Pest Control related services.", Charges="700"  }
             };
         }
 
